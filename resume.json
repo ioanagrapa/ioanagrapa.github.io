@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Ioana-Andreea Grapa",
+    "label": "Event Manager",
+    "picture": "",
+    "email": "ioana.a.grapa@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "I am a creative, dynamic and organised event manager who enjoys bringing people together to share common passions. Sociable, enthusiastic and a doer, I look for challenges at every corner. I love travelling, am a huge foodie and love being outdoors.   It is my belief that travelling and acquiring international experience has an immense impact on an individual's ability of integrating in a changing and dynamic environment, creating confident social networks and becoming open-minded towards future projects. In addition, travelling nurtures my interest for cross-cultural experiences, which impact on habits, behaviour, beliefs and values.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "Germany",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Twilio Inc.",
+      "position": "Event Marketing Manager",
+      "website": "https://twilio.com",
+      "startDate": "Nov 2016",
+      "endDate": "Apr 2017",
+      "summary": "I have autonomously project managed Twilio’s sponsored particpation in several tech events in Germany (Berlin, Hannover, Munich) and co-organised Twilio’s sponsorship at Mobile World Congress (Barcelona). With an yearly allocated budget of €200,000, my main responsibilities involved securing sponsorship contracts, designing expo booths and collateral, conducting email marketing campaigns, on-site networking, logistical support and internal reporting. Supported Twilio by improving brand awareness, engaging with attendees and generating over 500 leads through events in the German market.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Dataconomy Media GmbH (HitFox Group)",
+      "position": "Event Manager",
+      "website": "",
+      "startDate": "Aug 2015",
+      "endDate": "Aug 2016",
+      "summary": "Having managed a community of 27,000 data enthusiasts, I fully organised, ran and spoke at the largest Big Data Meetups across 16 European cities. I have also lead the organisation of the annual Data Natives Conference, which attracted over 1000 attendees in Berlin & Tel Aviv, with a budget of €150,000. Sold and secured sponsorship for various events from companies like IBM, Deloitte, HPE and Google, among others.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "https://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
