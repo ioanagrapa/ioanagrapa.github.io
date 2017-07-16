@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ioana-Andreea Grapa",
     "label": "Event Manager",
-    "picture": "",
+    "picture": "./ioanagrapa.jpg",
     "email": "ioana.a.grapa@gmail.com",
     "phone": "+49 (0) 176 257 15208",
     "website": "ioanagrapa.github.io",
@@ -21,17 +21,17 @@
       "company": "Twilio Inc.",
       "position": "Event Marketing Manager",
       "website": "https://www.twilio.com/",
-      "startDate": "Nov 2016",
-      "endDate": "Apr 2017",
-      "summary": "I have autonomously project managed Twilio’s sponsored participation in several tech events in Germany (Berlin, Hannover, Munich) and co-organised Twilio’s sponsorship at Mobile World Congress (Barcelona). With an yearly allocated budget of €200,000, my main responsibilities involved securing sponsorship contracts, designing expo booths and collateral, conducting email marketing campaigns, on-site networking, logistical support and internal reporting. Supported Twilio by improving brand awareness, engaging with attendees and generating over 500 leads through events in the German market.",
+      "startDate": "Nov. 2016",
+      "endDate": "Present",
+      "summary": "I autonomously project manage Twilio’s sponsored participation in several tech events in Germany (Berlin, Hannover, Munich) and co-organised Twilio’s sponsorship at Mobile World Congress (Barcelona). Currently, I collaborate with the London office for the event production of Signal London 2017. With an yearly allocated budget of €200,000, my main responsibilities involve securing sponsorship contracts, designing expo booths and collateral, conducting email marketing campaigns, on-site networking, logistical support and internal reporting. I support Twilio by improving brand awareness, engaging with attendees and generating over 500 leads through events in the German market.",
       "highlights": []
     },
     {
       "company": "Dataconomy Media GmbH (HitFox Group Venture)",
       "position": "Event Manager",
       "website": "http://dataconomy.com/",
-      "startDate": "Aug 2015",
-      "endDate": "Aug 2016",
+      "startDate": "Aug. 2015",
+      "endDate": "Aug. 2016",
       "summary": "Having managed a community of 27,000 data enthusiasts, I fully organised, ran and spoke at the largest Big Data Meetups across 16 European cities. I have also lead the organisation of the annual Data Natives Conference, which attracted over 1000 attendees in Berlin & Tel Aviv, with a budget of €150,000. Sold and secured sponsorship for various events from companies like IBM, Deloitte, HPE and Google, among others.",
       "highlights": []
     },
@@ -39,8 +39,8 @@
       "company": "Media Consulta International Holding GmbH",
       "position": "Junior Global Agency Network Manager",
       "website": "http://www.mcgroup.com/",
-      "startDate": "Feb 2015",
-      "endDate": "Sep 2015",
+      "startDate": "Feb. 2015",
+      "endDate": "Sep. 2015",
       "summary": "I have maintained and developed the MC Agency Network and its foreign subsidiaries in South Asia and the Middle East. Conducted research, copywriting and additional creative support for international partnerships within the public relations field. Forged partnerships with agencies in various industries including Advertising, Media, Corporate Publishing, Youth/Sport/Music Marketing and Event Management.",
       "highlights": []
     },
@@ -48,8 +48,8 @@
       "company": "Coventry University",
       "position": "Lecturer & Module Leader",
       "website": "http://www.coventry.ac.uk/",
-      "startDate": "Sep 2013",
-      "endDate": "Sep 2014",
+      "startDate": "Sep. 2013",
+      "endDate": "Sep. 2014",
       "summary": "Instructed the 3rd year course “Contemporary Issues in the Entertainment Industry” in the Sport and Event Management Department. Created course plans, lectures, seminars, graded papers and conducted office hours for a class of 16 students with full autonomy. Voted Best University Course in the 2014 student survey.",
       "highlights": []
     },
@@ -57,8 +57,8 @@
       "company": "Coventry University",
       "position": "International Communications Officer",
       "website": "http://www.coventry.ac.uk/",
-      "startDate": "Sep 2012",
-      "endDate": "Aug 2013",
+      "startDate": "Sep. 2012",
+      "endDate": "Aug. 2013",
       "summary": "I have promoted Coventry University internationally by conducting and hosting Introduction Days abroad. I developed new strategies with the management team of the International Office to successfully increase enrolment rates. Also, I created the promotional presentation and film for the Sports and Event Management Department Introduction Days.",
       "highlights": []
     }
@@ -69,8 +69,8 @@
       "institution": "Coventry University",
       "area": "Event Management",
       "studyType": "Bachelor of Arts",
-      "startDate": "Sep 2009",
-      "endDate": "Sep 2013",
+      "startDate": "Sep. 2009",
+      "endDate": "Sep. 2013",
       "gpa": "",
       "courses": []
     },
@@ -78,8 +78,8 @@
       "institution": "Université Jean Moulin 3",
       "area": "ERASMUS",
       "studyType": "Exchange Programme",
-      "startDate": "Sep 2011",
-      "endDate": "Sep 2012",
+      "startDate": "Sep. 2011",
+      "endDate": "Sep. 2012",
       "gpa": "",
       "courses": []
     },
@@ -87,8 +87,8 @@
       "institution": "Andrei Şaguna' National College",
       "area": "International Baccalaureate",
       "studyType": "Diploma",
-      "startDate": "Sep 2005",
-      "endDate": "Sep 2009",
+      "startDate": "Sep. 2005",
+      "endDate": "Sep. 2009",
       "gpa": "",
       "courses": []
     }
